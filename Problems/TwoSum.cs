@@ -1,5 +1,6 @@
 public partial class Solution{
 
+//Speed Efficient Solution
     public void TwoSum(int[] arr, int target){
         var map = new Dictionary<int,List<int>>();
         for(int i=0; i<arr.Length; i++){
@@ -14,6 +15,18 @@ public partial class Solution{
                         Console.WriteLine(i+","+j);
                         return;
                     }
+                }
+            }
+        }
+    }
+
+    //Memory Efficient Solution
+    public void TwoSum2(int[] arr, int target){
+        for(int i=0; i<arr.Length-1; i++){
+            for(int j=i+1; j<arr.Length; j++){
+                if(arr[i]+arr[j]==target){
+                    Console.WriteLine(i+","+j);
+                    return;
                 }
             }
         }
