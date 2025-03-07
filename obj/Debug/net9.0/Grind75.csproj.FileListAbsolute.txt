@@ -1,0 +1,15 @@
+/Users/mohamedsalam/Source/Grind75/Grind75/bin/Debug/net9.0/Grind75
+/Users/mohamedsalam/Source/Grind75/Grind75/bin/Debug/net9.0/Grind75.deps.json
+/Users/mohamedsalam/Source/Grind75/Grind75/bin/Debug/net9.0/Grind75.runtimeconfig.json
+/Users/mohamedsalam/Source/Grind75/Grind75/bin/Debug/net9.0/Grind75.dll
+/Users/mohamedsalam/Source/Grind75/Grind75/bin/Debug/net9.0/Grind75.pdb
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.AssemblyInfoInputs.cache
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.AssemblyInfo.cs
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.csproj.CoreCompileInputs.cache
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.sourcelink.json
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.dll
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/refint/Grind75.dll
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.pdb
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/Grind75.genruntimeconfig.cache
+/Users/mohamedsalam/Source/Grind75/Grind75/obj/Debug/net9.0/ref/Grind75.dll
