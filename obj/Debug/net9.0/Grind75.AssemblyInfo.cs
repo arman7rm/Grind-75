@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grind75")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b000fe255fbdcc277cde734e1f558ea2c2207511")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b5f721c208a12f017752209023c0ca7db590c7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grind75")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grind75")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
